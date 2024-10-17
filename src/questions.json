@@ -1,0 +1,32 @@
+[
+    {
+        "question": "what is 100 + 1?",
+        "choices": [99, 30, 120, 101],
+        "answer": 101,
+        "pointValue": 1
+    },
+    {
+        "question": "What is 6 X 3?",
+        "choices": [22, 18, 24, 19],
+        "answer": 18,
+        "pointValue": 2
+    },
+    {
+        "question": "What is 99 / 3?",
+        "choices": [33, 11, 9, 10],
+        "answer": 33,
+        "pointValue": 3
+    },
+    {
+        "question": "What is 1650 - 98?",
+        "choices": [1400, 1302, 1552, 1556],
+        "answer": 1552,
+        "pointValue": 5
+    },
+    {
+        "question": "What is 5039 + 100?",
+        "choices": [5139, 5210, 5100, 5300],
+        "answer": 5139,
+        "pointValue": 4
+    }
+]
